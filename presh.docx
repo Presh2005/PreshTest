@@ -1,0 +1,6 @@
+The purpose of the test is to use git to commit change on a file in the local repository
+Use Git to push the commit to the remote repository
+Use git to make chages in the file on the remote repository
+Use git to pull the change
+Check if the change is effective in the file on the local repository
+Kindly note that this file can be any editable extension eg .json, .html, .yml etc
